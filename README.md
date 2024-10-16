@@ -13,7 +13,7 @@ Media Player App – это приложение для Android, которое 
 ## Установка и запуск проекта
 ## Шаги по установке:
 1. Склонируйте репозиторий на ваш локальный компьютер:
-git clone https://github.com/your-username/media-player-app.git
+git clone https:https://github.com/KazbekovAktenir/MediaPlayer
 2. Откройте проект в Android Studio.
 3. Добавьте аудиофайлы в папку res/raw. Убедитесь, что названия файлов совпадают с элементами массива song_names в файле arrays.xml.
 4. Запустите приложение на эмуляторе или физическом устройстве.
