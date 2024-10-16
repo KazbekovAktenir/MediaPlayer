@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="song_names">
+        <item>song1</item>
+        <item>song2</item>
+        <item>song3</item>
+        <item>song4</item>
+        <!--добавляем сюда названия новых песен -->
+    </string-array>
+</resources>
+

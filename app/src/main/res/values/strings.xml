@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string name="song_title">Track Title</string>
+    <string name="current_time">0:00</string>
+    <string name="total_time">0:00</string>
+    <string name="prev_button">Previous</string>
+    <string name="play_pause_button">Play/Pause</string>
+    <string name="next_button">Next</string>
+</resources>
